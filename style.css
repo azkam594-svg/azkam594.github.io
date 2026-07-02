@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Helvetica;
+    background-color: #000000;
+}
+
+h1 {
+  color: #1350c2;
+  background-color: #d2f702;
+  text-align:center;
+  box-sizing: border-box;
+}
